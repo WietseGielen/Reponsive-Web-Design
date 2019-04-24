@@ -1,1 +1,1 @@
-[Click here](https://wietsegielen.github.io/Reponsive-Web-Design.git/homepage.html)
+[Click here](https://wietsegielen.github.io/Responsive-Web-Design.git/homepage.html)
